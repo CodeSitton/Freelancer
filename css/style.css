@@ -30,6 +30,8 @@ html {
     box-sizing: inherit;
   }  
 
+/*Globales*/
+
 body {
     font-size: 16px; /*1rem = 10px*/
     font-family: "Krub", sans-serif;
